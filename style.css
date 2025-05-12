@@ -1,7 +1,7 @@
 /* Définition du style pour le corps de la page */
 body {
     font-family: Arial, sans-serif;  /* Police de caractères */
-    background-color: #ff0000;      /* Couleur de fond */
+    background-color: #fff0f0;      /* Couleur de fond */
     margin: 0;                       /* Supprime les marges par défaut */
     padding: 0;                      /* Supprime les espacements par défaut */
 }
