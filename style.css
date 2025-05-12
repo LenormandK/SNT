@@ -9,6 +9,7 @@ body {
 /* Style pour les titres de niveau 1 */
 h1 {
     color: #333;                     /* Couleur du texte */
+    background-color: #ffffff;
     text-align: center;              /* Aligne le texte au centre */
     font-size: 36px;                 /* Taille de la police */
     margin-top: 50px;                /* Marge supérieure */
