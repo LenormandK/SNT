@@ -2,7 +2,7 @@
 body {
     font-family: Arial, sans-serif;  /* Police de caractères */
     background-color: #fff000;      /* Couleur de fond */
-    margin: 1;                       /* Supprime les marges par défaut */
+    margin: 2;                       /* Supprime les marges par défaut */
     padding: 0;                      /* Supprime les espacements par défaut */
 }
 
